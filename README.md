@@ -9,8 +9,11 @@ The SMRS algorithm was introduced in the paper **"See All by Looking at A Few: S
 ## Overview
 
 This repository provides:
+
 - An analysis of the method presented in the paper.
 - A Python implementation of the SMRS algorithm with my interpretation.
+- A detailed report written in NeurIPS-style format, available [here](./report/Final_project_Woonki_Kim.pdf).
+
 
 ### Key Features of SMRS:
 - **Representative Selection**: Efficiently selects a subset of representative objects from a dataset.
