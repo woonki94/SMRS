@@ -10,3 +10,6 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Ignore the data directory
+data/
+
